@@ -1,4 +1,4 @@
-# libimobiledevice-win64
+# libimobiledevice-msys64
 Compile libimobiledevice with windows MSYS2.
 
 ## Installation / Getting started
