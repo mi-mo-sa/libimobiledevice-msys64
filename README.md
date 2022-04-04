@@ -17,9 +17,6 @@ git clone https://github.com/libimobiledevice/libimobiledevice-glue.git
 git clone https://github.com/libimobiledevice/libusbmuxd.git
 git clone https://github.com/libimobiledevice/libimobiledevice.git
 git clone https://github.com/libimobiledevice/ideviceinstaller.git
-git clone https://github.com/libimobiledevice/libideviceactivation.git
-git clone https://github.com/libimobiledevice/libirecovery.git
-git clone https://github.com/libimobiledevice/idevicerestore.git
 ```
 Build and install in the respective actual project repository.
 ```shell
