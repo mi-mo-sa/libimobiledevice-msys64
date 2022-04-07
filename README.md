@@ -33,6 +33,12 @@ The library bundles the following command-line utilities in the tools directory:
 | `idevicesyslog`            | Relay syslog of a connected device                                 |
 | `ideviceinstaller`         | Interact with the app installation service of an iOS device        |
 
+Please consult the usage information or manual pages of each utility for a
+documentation of available command line options and usage examples like this:
+```shell
+ideviceinfo --help
+man ideviceinfo
+```
 ## How to Build
 
 ### MSYS2 / windows10
